@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{16BD6BF6-1831-4DCE-B9DE-2D7D7B5688EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculadoraDigital", "CalculadoraDigital\CalculadoraDigital.csproj", "{E3A35F94-33EF-496C-AB04-5F341420DB4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16BD6BF6-1831-4DCE-B9DE-2D7D7B5688EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16BD6BF6-1831-4DCE-B9DE-2D7D7B5688EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16BD6BF6-1831-4DCE-B9DE-2D7D7B5688EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16BD6BF6-1831-4DCE-B9DE-2D7D7B5688EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3A35F94-33EF-496C-AB04-5F341420DB4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A35F94-33EF-496C-AB04-5F341420DB4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A35F94-33EF-496C-AB04-5F341420DB4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A35F94-33EF-496C-AB04-5F341420DB4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DE1D290-0272-4E9A-8FDD-8E33BC73AEE2}
+	EndGlobalSection
+EndGlobal
